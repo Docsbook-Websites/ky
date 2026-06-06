@@ -56,6 +56,18 @@ try {
 - **url:** The URL to which the request is sent.
 - **options:** An object containing options for the request.
 
+## Error Handling
+
+For details on error handling, check the [Error Handling guide](guides/error-handling.md).
+
+## Customizing Requests
+
+For more information on customizing requests, see the [Customizing Requests guide](guides/customizing-requests.md).
+
+## Advanced Usage
+
+Learn about advanced features in the [Advanced Usage guide](guides/advanced-usage.md).
+
 ## License
 
 MIT License.
